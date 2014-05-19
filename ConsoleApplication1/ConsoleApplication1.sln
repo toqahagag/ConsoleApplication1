@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "life without zeros", "ConsoleApplication1\life without zeros.csproj", "{144E2BD1-B0E1-4F2C-BFB7-9B8A63BC248C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capslock", "ConsoleApplication3\capslock.csproj", "{EDBD42E8-AD46-4861-9C19-BDAAF8E11ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144E2BD1-B0E1-4F2C-BFB7-9B8A63BC248C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144E2BD1-B0E1-4F2C-BFB7-9B8A63BC248C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144E2BD1-B0E1-4F2C-BFB7-9B8A63BC248C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144E2BD1-B0E1-4F2C-BFB7-9B8A63BC248C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBD42E8-AD46-4861-9C19-BDAAF8E11ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBD42E8-AD46-4861-9C19-BDAAF8E11ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBD42E8-AD46-4861-9C19-BDAAF8E11ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBD42E8-AD46-4861-9C19-BDAAF8E11ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
